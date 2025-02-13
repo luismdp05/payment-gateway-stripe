@@ -1,0 +1,46 @@
+# Environment files
+local.settings.json
+.env
+*.env
+
+# Python virtual environment
+venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Certificates and keys
+*.pem
+*.pfx
+*.cer
+*.crt
+*.key
+*.csr
+*.jks
+*.p12
+*.p7b
+
+# Documents
+*.xml
+*.pdf
+
+# Temporary files
+temp/
+
+# Other
+cd
