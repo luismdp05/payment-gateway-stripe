@@ -33,6 +33,8 @@ Sigue estos pasos para instalar y configurar la pasarela de pago con Stripe:
 
 ¡Listo! Ahora deberías tener la pasarela de pago con Stripe funcionando en tu entorno local.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/luismdp05/payment-gateway-stripe)
+
 Tomado de:
 
 **Lógica aplicada a proyectos reales [2025]**
